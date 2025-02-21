@@ -128,7 +128,7 @@ minha familia.
     align="left"
     alt="GitHub Stats"
     height="250"
-    style="padding-right: 15px"
+    style="padding-right: 25px"
     src="https://github-readme-stats.vercel.app/api?username=devFernandoPereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
