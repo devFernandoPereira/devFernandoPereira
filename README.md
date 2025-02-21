@@ -1,7 +1,9 @@
 🧑🏽‍💻 Fernando Pereira **`Programador FullStack`** Me chamo Fernando, tenho 30 anos e
 sou natural de São Paulo. , sou formado em Análise e Desenvolvimento de Sistemas
 e tenho MBA em Engenharia de Software. Sou apaixonada por tecnologia e pela
-minha familia. ### 🤖 Linguagens e Tecnologias
+minha familia.
+
+### 🤖 Linguagens e Tecnologias
 
 <img
   align="left"
@@ -125,15 +127,15 @@ minha familia. ### 🤖 Linguagens e Tecnologias
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px"
+    height="250"
+    style="padding-right: 15px"
     src="https://github-readme-stats.vercel.app/api?username=devFernandoPereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img
     align="left"
     alt="GitHub Stats"
-    height="200"
+    height="250"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devFernandoPereira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
